@@ -1,0 +1,61 @@
+{
+  "term": "Spring",
+  "year": "2009",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Public Administration",
+      "Military Studies"
+    ],
+    [
+      "Social Science",
+      "Political Science",
+      "International Relations"
+    ],
+    [
+      "Humanities",
+      "History",
+      "Military History"
+    ],
+    [
+      "Social Science",
+      "Public Administration",
+      "Security Studies"
+    ]
+  ],
+  "legacy_uid": "3f6b4419-374d-1187-c4e0-b8ffa92b5592",
+  "instructors": {
+    "content": [
+      "011799e5-c50a-e3e6-c5d9-d295d995de21",
+      "2f4fa2b3-3295-27fa-e720-161159f3fd29"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "952ef971-7206-1c9d-aece-4e3821f7f3f6",
+    "website": "17-951-nuclear-weapons-in-international-politics-past-present-and-future-spring-2009"
+  },
+  "course_title": "Nuclear Weapons in International Politics: Past, Present and Future",
+  "hide_download": true,
+  "course_description": "This course will expose students to tools and methods of analysis for use in assessing the challenges and dangers associated with nuclear weapons in international politics. The first two weeks of the course will look at the technology and design of nuclear weapons and their means of production. The next five weeks will look at the role they played in the Cold War, the organizations that managed them, the technologies that were developed to deliver them, and the methods used to analyze nuclear force structures and model nuclear exchanges. The last six weeks of the course will look at theories and cases of nuclear decision making beyond the original five weapon states, and will look particularly at why states pursue or forego nuclear weapons, the role that individuals and institutions play, and the potential for both new sources of proliferation and new consequences.\n",
+  "department_numbers": [
+    "17"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "17.951",
+  "course_image_thumbnail": {
+    "content": "af234c8a-186b-d690-184f-b169dc016094",
+    "website": "17-951-nuclear-weapons-in-international-politics-past-present-and-future-spring-2009"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Projects"
+  ],
+  "site_uid": "e1fd7218-c712-4725-a8fa-f6f5277a282e",
+  "site_short_id": "17.951-spring-2009",
+  "site_url_path": "courses/17-951-nuclear-weapons-in-international-politics-past-present-and-future-spring-2009",
+  "title": "Course Metadata"
+}
