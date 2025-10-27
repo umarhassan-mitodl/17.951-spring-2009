@@ -4,8 +4,6 @@ description: Report on a trip to the Democratic People's Republic of Korea (DPRK
 file: /courses/17-951-nuclear-weapons-in-international-politics-past-present-and-future-spring-2009/1f0c8e6c8a8cb2f99df9e187a44afc3f_MIT17_951S09_walsh_trip.pdf
 file_size: 118214
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
